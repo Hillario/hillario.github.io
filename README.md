@@ -24,4 +24,4 @@ Define Actions(CRUD OPERATIONS)
 
 ## Try it out(Link to the Solution)
 
-[ReactJS CRUD App Example](https://mor-example1.herokuapp.com/)
+[ReactJS CRUD App Example](https://hillario.github.io/)
